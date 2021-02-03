@@ -1,11 +1,11 @@
 import React from "react";
-import CounterFour from "./components/CounterFour";
+import CounterEight from "./components/CounterEight";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <CounterFour />
+      <CounterEight />
     </div>
   );
 }
